@@ -1,0 +1,24 @@
+<html>
+<head>
+ <title>ML Model Result</title>
+</head>
+<body>
+ <h1>Result of the ML Model</h1>
+ <p>The result of the ML model is: {{ results }}</p>
+ <hr>
+ <h2>Output Image</h2>
+ <div id="output-container">
+    {% if content_type == 'video' %}
+        <video width="320" height="240" controls>
+            <source src="{{ content_url }}" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    {% else %}
+
+            <source src="{{ result_path }}" ">
+    {% endif %}
+
+   
+ </div>
+</body>
+</html>

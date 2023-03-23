@@ -1,0 +1,13 @@
+aliyun-python-sdk-core==2.13.36
+aliyun-python-sdk-kms==2.16.0
+antlr4-python3-runtime==4.9.3
+Flask==2.2.2
+Flask-SQLAlchemy==3.0.2
+gunicorn==19.6.0
+Jinja2==3.1.2
+mysql-connector-python==8.0.32
+mysqlclient==2.1.1
+opencv-python==4.7.0.68
+oss2==2.16.0
+SQLAlchemy==2.0.0
+ultralytics

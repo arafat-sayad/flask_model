@@ -1,0 +1,262 @@
+
+/* XL Device :1200px. */
+@media (min-width: 768px) and (max-width: 991px) {
+	.digitization-icon-text p {
+		font-size: 13px;
+		line-height: 15px;
+		margin-top: 5px;
+	}
+	.digitization-icon img {
+		width: 30px;
+	}
+	.header-logo img {
+		width: 140px;
+	}
+	.header-area {
+		padding: 60px 0;
+	}
+	.digitization-title p {
+		font-size: 24px;
+	}
+	.slider-text p {
+		font-size: 20px;
+		line-height: 42px;
+	}
+	.slider-text {
+		margin-top: 34px;
+		max-width: 840px;
+	}
+	.upload-title h2 {
+		margin-top: 25px;
+		font-size: 30px;
+	}
+
+
+	
+}
+
+
+
+
+
+@media (min-width: 300px) and (max-width: 767px) {
+	.digitization-wraper {
+		flex-wrap: wrap;
+	}
+	.digitization-icon-content {
+		width: 25%;
+		padding: 0 10px;
+		text-align: center;
+		margin-bottom: 15px;
+	}
+	.header-logo img {
+		width: 120px;
+	}
+	.header-area {
+		padding: 50px 0;
+	}
+	.digitization-title p {
+		font-size: 23px;
+	}
+	.digitization-icon img {
+		width: 26px;
+	}
+	.digitization-icon-text p {
+		font-size: 11px;
+		line-height: 17px;
+		margin-top: 4px;
+	}
+	.slider-text p {
+		font-size: 15px;
+		line-height: 35px;
+	}
+	.upload-title h2 {
+		margin-top: 15px;
+		font-size: 27px;
+	}
+	.footer-logo-left img {
+		width: 50px;
+	}
+	.footer-logo-right img {
+		width: 80px;
+	}
+	.upload-box {
+		margin-top: 30px;
+		max-width: 320px;
+		height: 220px;
+	}
+	.drop_box p {
+		font-size: 10px;
+	}
+	.drop_box h4 {
+		font-size: 15px;
+	}
+	.result-title h4 {
+		margin-top: 23px;
+		font-size: 19px;
+	}
+	.container-slider {
+		width: 320px;
+		height: 180px;
+	}
+	.container-slider .slider::-moz-range-thumb {
+		height: 180px;
+	  }
+	  .container-slider .slider::-webkit-slider-thumb {
+		height: 180px;
+	  }
+	  .slider-text {
+		max-width: 100%;
+	}
+	.opload-icon img {
+		width: 55px;
+	}
+	.multi-video-box iframe{
+		width: 350px;
+		height: 220px
+	}
+}
+
+
+
+
+
+
+
+
+/* XL Device :567px. */
+@media (min-width: 576px) and (max-width:767px) {
+	.multi-video-box iframe{
+		width: 520px;
+		height: 300px
+	}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+	
+
+}
+
+
+
+
+
+
+@media screen and (max-width: 992px) {
+	
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	
+
+
+
+
+}
+
+	@media (min-width: 576px) and (max-width: 767px) {
+      
+	
+		
+		
+
+	}
+
+
+
+
+
+
+
+
+
+	@media (min-width: 320px) and (max-width: 576px) {
+      
+		
+		
+	
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
